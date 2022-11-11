@@ -1,6 +1,6 @@
 ### Hey there, I'm David! 👋🏻
 
-- 📫 How to reach me: {firstname}@{lastname}.dev
+- 📫 How to reach me: david@vanoni.dev
 - 😄 Pronouns: he/him
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvanoni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
